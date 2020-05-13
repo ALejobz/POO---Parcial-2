@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/tiburcio/Documentos/2020-1/POO/edificiointeligente/src/main/scala/sistEdificio/interfazUsuario.scala:30:41: not found: value registar[0m
+[0m[[0m[31merror[0m] [0m[0m                        var resultado = registar()[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
